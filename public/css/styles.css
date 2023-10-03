@@ -1,0 +1,46 @@
+/*
+Fonts:
+
+font-family: 'Libre Baskerville', serif;
+font-family: 'REM', sans-serif;
+
+Colour Pallet:
+
+FEFFDE
+DDFFBC
+91C788
+52734D
+*/
+
+/* Global */
+body {
+  font-family: "REM", sans-serif;
+}
+h1 {
+  color: #52734d;
+  font-weight: bold;
+  font-family: "Libre Baskerville", serif;
+}
+
+/* Header */
+
+/* Body */
+.text_impressed {
+  color: #52734d;
+  font-weight: 400;
+  font-family: "REM", sans-serif;
+}
+
+/* Footer */
+.footer_copyright {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding-left: 10px;
+}
+.p_footer {
+  font-size: 0.8rem;
+  font-family: "REM", sans-serif;
+  font-weight: 400;
+}
